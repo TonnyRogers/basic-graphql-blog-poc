@@ -1,0 +1,44 @@
+node_modules# Dependency directories
+node_modules/
+jspm_packages/
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Compiled JavaScript output (usually 'dist' or 'build' as specified in tsconfig.json outDir)
+dist/
+build/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# dotenv environment variables file
+.env
+.env.*
+!.env.example # Keep the example file to show required variables
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage directory
+coverage/
+.nyc_output/
+
+# macOS system files
+.DS_Store
+
+# IDE specific files (e.g., VS Code)
+.vscode/*.log
