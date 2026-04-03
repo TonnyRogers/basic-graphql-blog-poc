@@ -16,7 +16,7 @@ then start the server
 
 ```yarn dev```
 
-# Some request examples on Postgres
+# Some request examples on Postman
 
 <img width="900" height="877" alt="image" src="https://github.com/user-attachments/assets/3267e0c6-f8a4-4179-bd77-7a56e7c313cb" />
 
